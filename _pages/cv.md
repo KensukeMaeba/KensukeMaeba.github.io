@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download academic CV in PDF]()
+[Download academic CV in PDF](http://KensukeMaeba.github.io/files/Maeba_CV.pdf)
 
 Education
 ======
