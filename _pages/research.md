@@ -19,5 +19,4 @@ Work in progress
 * [Is Workfare a Good Anti-Poverty Policy? An Assessment Based on Household Welfare, School Enrollment, and
 Program Expenditures](http://KensukeMaeba.github.io/files/workfare_draft.pdf), May 2023
 
-* Birth Order Effect Under a Cash Transfer Program, July 2019
-  * Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010113)
+* [Birth Order Effect Under a Cash Transfer Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010113), July 2019
