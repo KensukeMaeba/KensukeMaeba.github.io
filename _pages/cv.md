@@ -16,4 +16,4 @@ Education
   * Committee: Seema Jayachandran, Lori Beaman, Chris Udry, Vivek Bhattacharya
 * M.A., Economics, Northwestern University, 2018
 * M.A., Economics, The University of Tokyo, 2017
-* B.A., Economics, Keio University
+* B.A., Economics, Keio University, 2015
