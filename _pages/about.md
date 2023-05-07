@@ -12,9 +12,9 @@ Welcome!
 ======
 I am a Ph.D. student in the Department of Economics at Northwestern University. My research field is Development Economics at the intersection of Industrial Organization and the Economics of Education. 
 
-After graduating in June 2023, I will join Compass Lexecon in the Chicago office as a Senior Economist.
+After graduating from Northwestern in June 2023, I will join Compass Lexecon as a Senior Economist in the Chicago office.
 
-[Download academic CV in PDF](http://KensukeMaeba.github.io/files/Maeba_CV.pdf)
+[Download academic CV (PDF)](http://KensukeMaeba.github.io/files/Maeba_CV.pdf)
 
 Education
 ======
