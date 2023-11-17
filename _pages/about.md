@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 ======
-I am a Senior Economist with Compass Lexecon based in Chicago. 
+I am a [Senior Economist with Compass Lexecon](https://www.compasslexecon.com/professionals/kensuke-maeba/) based in Chicago. 
 
 I received my Ph.D. in Economics from Northwestern University. My research field is Development Economics at the intersection of Industrial Organization and Economics of Education. 
 
