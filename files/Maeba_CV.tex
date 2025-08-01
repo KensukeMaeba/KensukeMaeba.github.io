@@ -73,17 +73,26 @@
 %\fancyhf{}
 %\renewcommand{\headrulewidth}{0pt}
 %\headsep = 0.0cm
-%%\rhead{\footnotesize Last updated \today}
+%\rhead{\footnotesize Last updated \today}
 %\rhead{\footnotesize \includegraphics[scale=.11]{Shorthand-Vertical-Purple}}
 %}
 
+\makeatletter
+\renewcommand{\name}[1]{%
+  \def\@name{%
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} lr}
+      #1 & {\small \color{gray} Last updated: \mydate\today}
+    \end{tabular*}%
+  }%
+}
+\makeatother
 
 \begin{document}
 \pretolerance=10000
 
 ~\\
 ~\\
-\name{  {\LARGE  Kensuke Maeba } \vspace*{.1in}}
+\name{ {\LARGE Kensuke Maeba} \vspace*{.1in}}
 
 \begin{resume}
 \thispagestyle{plain} % to use first page footer
@@ -91,8 +100,8 @@
 \section{Contact Information}
 \vspace{.05in}
 \begin{tabular}{@{}p{0.20in}p{2.75in}p{2.75in}}
- & Compass Lexecon           & (+1) 312-874-9284 \\
- & 332 S. Michigan Ave.  &  \href{mailto: kensukemaeba2022@u.northwestern.edu}{kensukemaeba2022@u.northwestern.edu} \\
+ & Compass Lexecon           & (+1) 312-322-0248 \\
+ & 332 S. Michigan Ave.  &  \href{mailto: kmaeba@compasslexecon.com}{kmaeba@compasslexecon.com} \\
  & Suite 1300 &  \href{https://kensukemaeba.github.io}{https://kensukemaeba.github.io}\\
  & Chicago, IL 60604  & Citizenship: Japanese
 \end{tabular}
@@ -160,28 +169,23 @@
 
 \section{Conferences}
 \begin{list1}
-\item[] 2022: Development Day
+\item[] 2022: Development Day@UIUC
 \item[] 2017: GRIPS-UTokyo Empirical Workshop, International Association for Applied Econometrics Conferences
 \end{list1}
 
 \pagebreak
 
-\section{Working Papers}
+\section{Published Papers}
 \begin{list1}
-\item[] ``Extrapolation of Treatment Effect Estimates Across Contexts and Policies: An Application to Cash Transfer Experiments,'' May 2023, JMP
-\begin{list2}
-\item[] Predicting the effects of a new policy often relies on existing evidence of the same policy in other contexts. However, cross-contexts predictions may fail because those contexts may have distinct characteristics and the same policies may function differently across contexts. In such cases, one might want to make predictions based on similar policies in one’s own context to hold local factors constant. This paper compares these approaches using cash transfer programs in Malawi and Morocco. By predicting the treatment effect of Moroccan CCTs on school enrollment rates based on either Malawi CCTs or Moroccan labeled cash transfers (LCTs), I show that predictions based on the Moroccan LCTs (across policies) are more accurate than the Malawi CCTs (across contexts). To shed light on the sources of the difference, I estimate a dynamic model of schooling decisions under each intervention separately and compare the estimated parameters across the interventions. I find that perceived returns to schooling relative to outside options explain the differential predictions. I suggest that differences in the underlying mechanisms of the Malawi and Moroccan CCTs are reflected in the cross-contexts variation of the relative returns. 
-\end{list2}
-\item[] ``How the Political Power of Teacher Unions Affects Education'' (joint with Eduardo Campillo Betancourt), May 2023
-\begin{list2}
-\item[] Teacher unions play an important role in determining the quality of public education, especially when they have political power. However, the effects of the unions on education outcomes are theoretically ambiguous and empirical evidence is limited, particularly in developing countries. This paper studies how politically powerful teacher unions affect public education, focusing on the largest corporatist teacher union in Mexico and a performance-pay program regarded as the union’s patronage tool for rewarding teachers based on their electoral support. We show that the number of public secondary school teachers who got promoted in the program increased in the municipalities supporting the union-affiliated candidate during the 2006 presidential election, compared to less supportive municipalities, after that election. However, we also show that the increased promotion was not associated with improved learning outcomes, suggesting that the implementation of the program was distorted by the political influence of the union. \\
-\end{list2}
+\item[] ``How the Political Power of Teacher Unions Affects Education'' (joint with Eduardo Campillo Betancourt), Forthcoming, {\it Education Economics}
 \end{list1}
 
-\section{Work in Progress}
+
+\section{Working Papers}
 \begin{list1}
+\item[] ``Extrapolation of Treatment Effect Estimates Across Contexts and Policies: An Application to Cash Transfer Experiments,'' May 2023, {\it Job Market Paper}
 \item[] ``Is Workfare a Good Anti-Poverty Policy? An Assessment Based on Household Welfare, School Enrollment, and Program Expenditures,'' May 2023
-\item[] ``Birth Order Effect Under a Cash Transfer Program,'' July 2019, Pre-doctoral thesis, Available at \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010113}{SSRN}
+\item[] ``Birth Order Effect Under a Cash Transfer Program,'' July 2019, Pre-doctoral thesis, {\it Available at \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010113}{SSRN}}
 \end{list1}
 
 \section{Professional Services}
@@ -192,7 +196,7 @@
 
 \section{Languages}
 \begin{list1}
-\item[] English (fluent), Japanese (native)
+\item[] English (fluent), Japanese (native), Spanish (Beginner)
 \end{list1}
 
 \section{References}
