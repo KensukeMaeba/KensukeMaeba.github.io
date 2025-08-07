@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kensuke Maeba"
   avatar           : "JMP-photo.jpg"
-  bio              : "Ph.D. in Economics from Northwestern University"
+  bio              :
   location         : "Evanston, IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?hl=en&user=K8AI96wAAAAJ"
-  email            : "kensukemaeba2022@u.northwestern.edu"
+  email            : "kmaeba@compasslexecon.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KensukeMaeba"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
