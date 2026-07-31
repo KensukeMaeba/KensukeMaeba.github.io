@@ -7,7 +7,7 @@ author_profile: true
 
 Publication
 ======
-* [How the Political Power of Teacher Unions Affects Education](https://doi.org/10.1080/09645292.2025.2544189) (joint with Eduardo Campillo Betancourt), _Education Economics_, Forthcoming  
+* [How the Political Power of Teacher Unions Affects Education](https://doi.org/10.1080/09645292.2025.2544189) (joint with Eduardo Campillo Betancourt), _Education Economics_, 34(4), 510–528.  
   * [[WP Version]](http://KensukeMaeba.github.io/files/EE_Publication.pdf)  
   * [[Replication]](https://www.dropbox.com/scl/fo/rpme8wa64ljsh4b8lv7y8/AC34YSzEJVdfvVCDeWaGmKI?rlkey=vzctoo61eow82xm9ohl4oztpp&dl=0)
 
